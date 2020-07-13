@@ -1,0 +1,17 @@
+[
+
+	{
+		"VMName": "VM3CentralUS",
+		"ResourceGroup": "NetworkWatcherRG",
+		"RecoveryVault": "Scriptvault",
+		"BackupPolicy": "BackupPolicy"
+	},
+
+	{
+		"VMName": "VmWithoutTag",
+		"ResourceGroup": "NetworkWatcherRG",
+		"RecoveryVault": "Scriptvault",
+		"BackupPolicy": "BackupPolicy"
+	}
+
+]
